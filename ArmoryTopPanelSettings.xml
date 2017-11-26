@@ -1,6 +1,26 @@
 <application>
   <component name="ArmoryTopPanelSettings">
-    <REGULAR />
-    <DARK />
+    <REGULAR>
+      <PHP_ARGUMENT>
+        <option name="FOREGROUND" value="ff00ff" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="USE_DEFAULT" value="TRUE" />
+      </PHP_ARGUMENT>
+      <PHP_TYPE>
+        <option name="BACKGROUND" value="ccccff" />
+        <option name="USE_DEFAULT" value="TRUE" />
+      </PHP_TYPE>
+    </REGULAR>
+    <DARK>
+      <PHP_ARGUMENT>
+        <option name="FOREGROUND" value="9776a9" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="USE_DEFAULT" value="TRUE" />
+      </PHP_ARGUMENT>
+      <PHP_TYPE>
+        <option name="BACKGROUND" value="374752" />
+        <option name="USE_DEFAULT" value="TRUE" />
+      </PHP_TYPE>
+    </DARK>
   </component>
 </application>
