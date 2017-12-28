@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../whmcs-duocircle-template/hooks/whmcs-duocircle-template-menus.php - [portal]'" />
-    <option name="defaultScopeName" value="File '.../whmcs-duocircle-template/hooks/whmcs-duocircle-template-menus.php - [portal]'" />
+    <option name="customScope" value="File '.../whmcs-duocircle-template/hooks/whmcs-duocircle-template-login.php - [portal]'" />
+    <option name="defaultScopeName" value="File '.../whmcs-duocircle-template/hooks/whmcs-duocircle-template-login.php - [portal]'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="File '.../whmcs-duocircle-template/hooks/whmcs-duocircle-template-menus.php - [portal]'" />
+    <option name="SEARCH_SCOPE" value="File '.../whmcs-duocircle-template/hooks/whmcs-duocircle-template-login.php - [portal]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
