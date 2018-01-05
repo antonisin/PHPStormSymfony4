@@ -1,10 +1,10 @@
 <templateSet group="PHP">
-  <template name="ex" value="throw new \Exception(&quot;$END$&quot;);" toReformat="false" toShortenFQNames="true">
+  <template name="ex" value="throw new \Exception(&quot;$END$&quot;);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="regg" value="$request-&gt;get(&quot;$END$&quot;)" toReformat="false" toShortenFQNames="true">
+  <template name="regg" value="$request-&gt;get(&quot;$END$&quot;)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
