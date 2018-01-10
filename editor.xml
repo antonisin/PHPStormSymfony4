@@ -5,11 +5,7 @@
         <entry key="PHP" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
   </component>
 </application>
