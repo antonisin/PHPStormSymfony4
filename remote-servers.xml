@@ -3,6 +3,10 @@
     <remote-server name="Docker" type="docker">
       <configuration>
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
+        <option name="pathMappings">
+          <list />
+        </option>
       </configuration>
     </remote-server>
   </component>
