@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="DockerfilePHP" type="PLAIN_TEXT" />
+      <mapping pattern="nonce" type="PLAIN_TEXT" />
       <mapping pattern="Product" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-php" type="PLAIN_TEXT" />
