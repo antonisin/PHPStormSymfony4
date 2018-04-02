@@ -1,40 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Files in Previous Search Result" />
-    <option name="defaultScopeName" value="Files in Previous Search Result" />
-    <option name="SEARCH_SCOPE" value="Files in Previous Search Result" />
-    <option name="FILE_MASK" value="*.php" />
-    <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>.</mask>
-      <mask>.h</mask>
-      <mask>.ha</mask>
-      <mask>.ham</mask>
-      <mask>.haml</mask>
-      <mask>hm.haml</mask>
-      <mask>h.haml</mask>
-      <mask>ht.haml</mask>
-      <mask>htm.haml</mask>
-      <mask>html.haml</mask>
-      <mask>.html.haml</mask>
-      <mask>*.html.haml</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
-      <mask>*.ya</mask>
-      <mask>*.yam</mask>
-      <mask>*.yaml;</mask>
-      <mask>*.yml</mask>
-      <mask>*.yaml</mask>
-      <mask>*.tpl</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
