@@ -2,10 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="control" type="Bash" />
+      <removed_mapping ext="jade" type="Jade" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="mainMenu" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-php" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="DockerfilePHP" type="PLAIN_TEXT" />
       <mapping pattern="nonce" type="PLAIN_TEXT" />
       <mapping pattern="Product" type="PLAIN_TEXT" />
