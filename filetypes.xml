@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="control" type="Bash" />
-      <removed_mapping ext="jade" type="Jade" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="mainMenu" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-php" type="PLAIN_TEXT" />
@@ -14,7 +13,6 @@
       <mapping ext="ctp" type="PLAIN_TEXT" />
       <mapping ext="tar" type="PLAIN_TEXT" />
       <mapping ext="msj" type="PLAIN_TEXT" />
-      <mapping ext="jade" type="Perl" />
     </extensionMap>
   </component>
 </application>
