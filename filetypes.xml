@@ -13,6 +13,7 @@
       <mapping ext="ctp" type="PLAIN_TEXT" />
       <mapping ext="tar" type="PLAIN_TEXT" />
       <mapping ext="msj" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
