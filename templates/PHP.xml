@@ -9,4 +9,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="maxdoc" value="/**&#10;* $CLASSNAME$&#10;* &#10;* @author Maxim Antonisinn &lt;maxim.antonisinn@gmail.com&gt;&#10;*&#10;* @version 1.0.0&#10;*/" description="Class php doc" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="fileNameWithoutExtension()" defaultValue="Class" alwaysStopAt="false" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
