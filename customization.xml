@@ -1,6 +1,30 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="CopyPaths" is_action="true" action_type="1" position="5">
+    <group value="Console.Jdbc.Execute" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="QuickJavaDoc" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Console.Jdbc.Execute" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CopyPaths" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
