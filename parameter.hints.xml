@@ -6,6 +6,7 @@
       <blacklist language="JavaScript" />
       <blacklist language="PHP">
         <added pattern="\end(array)" />
+        <added pattern="\Symfony\Component\Console\Command\Command.addOption(name,shortcut,mode,description,default)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
