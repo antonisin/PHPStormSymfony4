@@ -8,6 +8,7 @@
         <added pattern="\end(array)" />
         <added pattern="\Symfony\Component\Console\Command\Command.addOption(name,shortcut,mode,description,default)" />
         <added pattern="\sprintf(format,args,_)" />
+        <added pattern="\error_log(message,message_type,destination,extra_headers)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
