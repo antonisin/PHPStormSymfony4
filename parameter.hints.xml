@@ -1,0 +1,17 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="XML" />
+      <blacklist language="JavaScript" />
+      <blacklist language="PHP">
+        <added pattern="\end(array)" />
+        <added pattern="\Symfony\Component\Console\Command\Command.addOption(name,shortcut,mode,description,default)" />
+        <added pattern="\sprintf(format,args,_)" />
+        <added pattern="\error_log(message,message_type,destination,extra_headers)" />
+        <removed pattern="" />
+      </blacklist>
+      <blacklist language="YAML" />
+    </blacklists>
+  </component>
+</application>
