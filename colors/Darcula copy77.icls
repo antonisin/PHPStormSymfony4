@@ -25,12 +25,23 @@
         <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="691e" />
         <option name="ERROR_STRIPE_COLOR" value="36b13" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
     </option>
     <option name="MAGIC_MEMBER_ACCESS">
       <value>
@@ -58266,6 +58277,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PHP_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff0000" />
@@ -58337,12 +58354,12 @@
     </option>
     <option name="PHP_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="9876aa" />
+        <option name="FOREGROUND" value="cea4e0" />
       </value>
     </option>
     <option name="PHP_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FOREGROUND" value="ffeb91" />
       </value>
     </option>
     <option name="PHP_INTERFACE">
@@ -58352,7 +58369,7 @@
     </option>
     <option name="PHP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="e28b32" />
+        <option name="FOREGROUND" value="fd9b37" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -58379,7 +58396,7 @@
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
-        <option name="BACKGROUND" value="232525" />
+        <option name="BACKGROUND" value="26282a" />
       </value>
     </option>
     <option name="PHP_SEMICOLON">
@@ -58389,13 +58406,13 @@
     </option>
     <option name="PHP_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="9876aa" />
+        <option name="FOREGROUND" value="e0b4f2" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FOREGROUND" value="ffeb91" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -58412,7 +58429,7 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="ab88bd" />
+        <option name="FOREGROUND" value="ae8dc0" />
       </value>
     </option>
     <option name="PHP_VAR_VAR">
