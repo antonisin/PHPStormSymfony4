@@ -1,5 +1,5 @@
 <code_scheme name="Default" version="173">
-  <CoffeeScriptCodeStyleSettings>
+  <CoffeeScriptCodeStyleSettings version="0">
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
   </CoffeeScriptCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
@@ -24,5 +24,10 @@
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
