@@ -12,6 +12,9 @@
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
+      <blacklist language="CoffeeScript">
+        <added pattern="i18nConfigure(opt)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
