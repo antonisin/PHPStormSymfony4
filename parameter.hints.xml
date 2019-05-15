@@ -2,6 +2,9 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="TypeScript" />
+      <blacklist language="CoffeeScript">
+        <added pattern="i18nConfigure(opt)" />
+      </blacklist>
       <blacklist language="XML" />
       <blacklist language="JavaScript" />
       <blacklist language="PHP">
@@ -9,12 +12,10 @@
         <added pattern="\Symfony\Component\Console\Command\Command.addOption(name,shortcut,mode,description,default)" />
         <added pattern="\sprintf(format,args,_)" />
         <added pattern="\error_log(message,message_type,destination,extra_headers)" />
+        <added pattern="\DuoCircle\WHMCS\Common\Hooks\ImprovelyAPI.sendConversion(identity,revenue,label,params)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
-      <blacklist language="CoffeeScript">
-        <added pattern="i18nConfigure(opt)" />
-      </blacklist>
     </blacklists>
   </component>
 </application>
