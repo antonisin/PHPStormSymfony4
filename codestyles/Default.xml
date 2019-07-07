@@ -2,6 +2,9 @@
   <CoffeeScriptCodeStyleSettings version="0">
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
   </CoffeeScriptCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
+  </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
