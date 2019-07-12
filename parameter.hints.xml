@@ -14,9 +14,11 @@
         <added pattern="\error_log(message,message_type,destination,extra_headers)" />
         <added pattern="\DuoCircle\WHMCS\Common\Hooks\ImprovelyAPI.sendConversion(identity,revenue,label,params)" />
         <added pattern="\array_key_exists(key,search)" />
+        <added pattern="\PhishProtection\APIException(message, code)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
     </blacklists>
+    <option id="php.show.names.for.all.args" value="true" />
   </component>
 </application>
