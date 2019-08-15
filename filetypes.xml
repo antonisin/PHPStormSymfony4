@@ -15,9 +15,11 @@
       <mapping pattern="Update4" type="PLAIN_TEXT" />
       <mapping pattern="mainMenu" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping ext="frontend" type="PLAIN_TEXT" />
       <mapping ext="tar" type="PLAIN_TEXT" />
       <mapping ext="bkp" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="portal" type="PLAIN_TEXT" />
       <mapping ext="ini-development" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
