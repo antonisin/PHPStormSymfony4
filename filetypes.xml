@@ -19,6 +19,7 @@
       <mapping ext="tar" type="PLAIN_TEXT" />
       <mapping ext="bkp" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="ini-development" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
