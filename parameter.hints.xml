@@ -20,6 +20,8 @@
         <added pattern="\PhishProtection\Service\NotificationService.send2Email(propagatorEmail,receivers,logId)" />
         <added pattern="\PhishProtection\Service\NotificationService.send2Email(receivers,propagatorEmail,logId)" />
         <added pattern="\PhishProtection\Service\NotificationService.send2Email(receivers,propagatorEmail,logId,params)" />
+        <added pattern="\PhishProtection\Service\NotificationService.notifySpool(monitoring,propagatorEmail,level)" />
+        <added pattern="\PhishProtection\Service\NotificationService.notifySpool(monitoring,propagatorEmail,level,msgCode,engine)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
