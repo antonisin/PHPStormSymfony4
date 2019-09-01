@@ -22,6 +22,7 @@
         <added pattern="\PhishProtection\Service\NotificationService.send2Email(receivers,propagatorEmail,logId,params)" />
         <added pattern="\PhishProtection\Service\NotificationService.notifySpool(monitoring,propagatorEmail,level)" />
         <added pattern="\PhishProtection\Service\NotificationService.notifySpool(monitoring,propagatorEmail,level,msgCode,engine)" />
+        <added pattern="\PhishProtection\Controller\BaseController.getRequestParam(key,default,strictMode)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
