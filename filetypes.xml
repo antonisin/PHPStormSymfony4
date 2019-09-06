@@ -7,6 +7,7 @@
       <mapping pattern="nonce" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="DockerfilePHP" type="PLAIN_TEXT" />
+      <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="Product" type="PLAIN_TEXT" />
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
