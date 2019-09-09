@@ -23,6 +23,7 @@
         <added pattern="\PhishProtection\Service\NotificationService.notifySpool(monitoring,propagatorEmail,level)" />
         <added pattern="\PhishProtection\Service\NotificationService.notifySpool(monitoring,propagatorEmail,level,msgCode,engine)" />
         <added pattern="\PhishProtection\Controller\BaseController.getRequestParam(key,default,strictMode)" />
+        <added pattern="\PhishProtection\Lib\WHMCSClient.getMessageStatistics(remoteId,startDate,endDate)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
