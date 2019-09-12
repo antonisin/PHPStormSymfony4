@@ -28,6 +28,7 @@
         <added pattern="\Rollbar\Rollbar.log(level,toLog,extra,isUncaught)" />
         <added pattern="\Database.onError(message,exception,data)" />
         <added pattern="\array_merge(array1,array2,_)" />
+        <added pattern="\PhishProtection\Lib\OnErrorTrait.onError(message,exception,data)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
