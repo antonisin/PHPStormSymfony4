@@ -29,6 +29,7 @@
         <added pattern="\Database.onError(message,exception,data)" />
         <added pattern="\array_merge(array1,array2,_)" />
         <added pattern="\PhishProtection\Lib\OnErrorTrait.onError(message,exception,data)" />
+        <added pattern="\BlockList.http(url,data,options,type)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
