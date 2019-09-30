@@ -31,6 +31,8 @@
         <added pattern="\PhishProtection\Lib\OnErrorTrait.onError(message,exception,data)" />
         <added pattern="\BlockList.http(url,data,options,type)" />
         <added pattern="\API.wildCardCheck(pattern,value)" />
+        <added pattern="\APIParamException._constructor(message,code,msgCode)" />
+        <added pattern="(message,code,msgCode)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
