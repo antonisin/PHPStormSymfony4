@@ -33,6 +33,8 @@
         <added pattern="\API.wildCardCheck(pattern,value)" />
         <added pattern="\APIParamException._constructor(message,code,msgCode)" />
         <added pattern="(message,code,msgCode)" />
+        <added pattern="\PhishProtection\Lib\Slack\SlackMessageAttachment.setTitle(title)" />
+        <added pattern="\PhishProtection\Lib\Slack\SlackMessageAttachment.setText(text)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
