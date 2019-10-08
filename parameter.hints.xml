@@ -35,6 +35,8 @@
         <added pattern="(message,code,msgCode)" />
         <added pattern="\PhishProtection\Lib\Slack\SlackMessageAttachment.setTitle(title)" />
         <added pattern="\PhishProtection\Lib\Slack\SlackMessageAttachment.setText(text)" />
+        <added pattern="\Database.getMonitoringBy(where,options)" />
+        <added pattern="\PhishProtection\Service\NotificationService.send2Hook(hook,propagatorEmail,monitoring,params)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
