@@ -8,6 +8,7 @@
       <blacklist language="XML" />
       <blacklist language="JavaScript" />
       <blacklist language="PHP">
+        <added pattern="\Exception" />
         <added pattern="\end(array)" />
         <added pattern="\Symfony\Component\Console\Command\Command.addOption(name,shortcut,mode,description,default)" />
         <added pattern="\sprintf(format,args,_)" />
@@ -42,6 +43,7 @@
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
+      <blacklist language="SQL" />
     </blacklists>
     <option id="php.show.names.for.all.args" value="true" />
   </component>
