@@ -38,6 +38,7 @@
         <added pattern="\Database.getMonitoringBy(where,options)" />
         <added pattern="\PhishProtection\Service\NotificationService.send2Hook(hook,propagatorEmail,monitoring,params)" />
         <added pattern="\PhishProtection\Service\NotificationService.mandrilEmailMessage(link,propagatorEmail,receivers,params)" />
+        <added pattern="\PhishProtection\Lib\OnErrorTrait.onError(message,exception,data,returnValue)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
