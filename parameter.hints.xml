@@ -44,6 +44,7 @@
         <added pattern="\PhishProtection\Service\NotificationService.send2Email(receivers,propagatorEmail,monitoring,params)" />
         <added pattern="\PhishProtection\Database\NotificationHistoryDatabase.findAllByNotificationId(notificationId,limit,order)" />
         <added pattern="\PhishProtection\Database\NotificationEmailDatabase.insertCollection(models,notificationId)" />
+        <added pattern="\printf(format,args,_)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
