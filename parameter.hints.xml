@@ -45,6 +45,7 @@
         <added pattern="\PhishProtection\Database\NotificationHistoryDatabase.findAllByNotificationId(notificationId,limit,order)" />
         <added pattern="\PhishProtection\Database\NotificationEmailDatabase.insertCollection(models,notificationId)" />
         <added pattern="\printf(format,args,_)" />
+        <added pattern="\PDOStatement.fetchAll(fetch_style,fetch_argument,ctor_args)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
