@@ -1,5 +1,12 @@
-<scheme name="Darcula copy77" version="142" parent_scheme="Darcula">
+<scheme name="Darcula copy4" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2019-11-27T11:35:09</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2019.2.4.0.0</property>
+    <property name="modified">2019-11-27T11:35:21</property>
+    <property name="originalScheme">Darcula copy77</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -58312,13 +58319,13 @@
     </option>
     <option name="PHP_DOC_COMMENT_ID">
       <value>
-        <option name="FOREGROUND" value="699a5c" />
+        <option name="FOREGROUND" value="b0eca1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_DOC_TAG">
       <value>
-        <option name="FOREGROUND" value="82be74" />
+        <option name="FOREGROUND" value="86b579" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="82be74" />
         <option name="EFFECT_TYPE" value="1" />
@@ -58331,7 +58338,7 @@
     </option>
     <option name="PHP_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="fffe7f" />
+        <option name="FOREGROUND" value="fffea3" />
       </value>
     </option>
     <option name="PHP_FUNCTION_CALL">
@@ -58375,7 +58382,7 @@
     </option>
     <option name="PHP_MARKUP_ID">
       <value>
-        <option name="FOREGROUND" value="8dd27d" />
+        <option name="FOREGROUND" value="a9f099" />
       </value>
     </option>
     <option name="PHP_NUMBER">
