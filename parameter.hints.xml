@@ -46,6 +46,8 @@
         <added pattern="\PhishProtection\Database\NotificationEmailDatabase.insertCollection(models,notificationId)" />
         <added pattern="\printf(format,args,_)" />
         <added pattern="\PDOStatement.fetchAll(fetch_style,fetch_argument,ctor_args)" />
+        <added pattern="\in_array(needle,haystack,strict)" />
+        <added pattern="\Database.getLogWithMonitoring(fields,conditions)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
