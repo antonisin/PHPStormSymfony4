@@ -48,6 +48,7 @@
         <added pattern="\PDOStatement.fetchAll(fetch_style,fetch_argument,ctor_args)" />
         <added pattern="\in_array(needle,haystack,strict)" />
         <added pattern="\Database.getLogWithMonitoring(fields,conditions)" />
+        <added pattern="\PhishProtection\Database\UserDatabase.updateCredentials(username,password1,password2,password3)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
