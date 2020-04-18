@@ -3,12 +3,12 @@
     <extensionMap>
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="mainMenu" type="PLAIN_TEXT" />
-      <mapping pattern=".aws" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-php" type="PLAIN_TEXT" />
       <mapping pattern="Product" type="PLAIN_TEXT" />
       <mapping pattern="DockerfilePHP" type="PLAIN_TEXT" />
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping pattern="Update4" type="PLAIN_TEXT" />
+      <mapping pattern=".aws" type="PLAIN_TEXT" />
       <mapping pattern="nonce" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
@@ -29,9 +29,9 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="dashboard" type="Twig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
