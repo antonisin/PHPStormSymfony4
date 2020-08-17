@@ -5,7 +5,12 @@
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
         <option name="certificatesPath" />
         <option name="pathMappings">
-          <list />
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/Documents/dev/itworks/DuoCircleHalonUrlFilteringDev/files/portal" />
+              <option name="virtualMachinePath" value="/var/www/portal" />
+            </DockerPathMappingImpl>
+          </list>
         </option>
       </configuration>
     </remote-server>
