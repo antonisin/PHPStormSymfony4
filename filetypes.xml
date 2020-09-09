@@ -5,12 +5,12 @@
       <mapping pattern="mainMenu" type="PLAIN_TEXT" />
       <mapping pattern=".aws" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-php" type="PLAIN_TEXT" />
-      <mapping pattern="CaddyFileMock" type="PLAIN_TEXT" />
+      <mapping pattern="nonce" type="PLAIN_TEXT" />
       <mapping pattern="Product" type="PLAIN_TEXT" />
       <mapping pattern="DockerfilePHP" type="PLAIN_TEXT" />
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping pattern="Update4" type="PLAIN_TEXT" />
-      <mapping pattern="nonce" type="PLAIN_TEXT" />
+      <mapping pattern="CaddyFileMock" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="CaddyfileMain" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
