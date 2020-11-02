@@ -49,6 +49,7 @@
         <added pattern="\in_array(needle,haystack,strict)" />
         <added pattern="\Database.getLogWithMonitoring(fields,conditions)" />
         <added pattern="\PhishProtection\Database\UserDatabase.updateCredentials(username,password1,password2,password3)" />
+        <added pattern="\PhishProtection\Cli\Lib\CliHelper.printf(message,color,arguments)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
