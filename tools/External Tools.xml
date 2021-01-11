@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="MakeFile" description="Make docker file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="make" />
+      <option name="PARAMETERS" value="clean-db" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/dev/itworks/PPdocker" />
+    </exec>
+  </tool>
+</toolSet>
