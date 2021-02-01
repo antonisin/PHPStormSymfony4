@@ -1,5 +1,7 @@
 <application>
   <component name="PathMacrosImpl">
+    <macro name="gpg" value="/usr/local/MacGPG2/bin/gpg" />
+    <macro name="gpg2" value="/usr/local/MacGPG2/bin/gpg" />
     <ignoredMacro name="MESSAGE" />
     <ignoredMacro name="FILE_PATH" />
     <ignoredMacro name="LINE" />
