@@ -1,9 +1,23 @@
 <toolSet name="External Tools">
-  <tool name="MakeFile" description="Make docker file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="InitDatabase" description="Initialize Database" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="make" />
-      <option name="PARAMETERS" value="clean-db" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/dev/itworks/PPdocker" />
+      <option name="COMMAND" value="docker-compose" />
+      <option name="PARAMETERS" value="exec -T php_portal php cli/database.php init" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/dev/itworks/PPDocker" />
+    </exec>
+  </tool>
+  <tool name="Migration" description="Run Migrations" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="docker-compose" />
+      <option name="PARAMETERS" value="exec -T php_portal composer m:u" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/dev/itworks/PPDocker" />
+    </exec>
+  </tool>
+  <tool name="FakeData" description="Insert fake data." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="docker-compose" />
+      <option name="PARAMETERS" value="exec -T php_portal php cli/database.php dummy" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/dev/itworks/PPDocker" />
     </exec>
   </tool>
 </toolSet>
