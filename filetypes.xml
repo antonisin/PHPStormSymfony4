@@ -32,6 +32,7 @@
       <mapping ext="tar" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="wt" type="PLAIN_TEXT" />
       <mapping ext="portal" type="PLAIN_TEXT" />
       <mapping pattern="dashboard" type="Twig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
