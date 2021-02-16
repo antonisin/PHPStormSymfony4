@@ -20,4 +20,11 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/dev/itworks/PPDocker" />
     </exec>
   </tool>
+  <tool name="AddIp" description="Add whitelist ip" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="docker-compose" />
+      <option name="PARAMETERS" value="exec -T php_portal php cli/whitelistip.php 172.19.0.1 'Host Mac ip (internal)'" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/dev/itworks/PPDocker" />
+    </exec>
+  </tool>
 </toolSet>
